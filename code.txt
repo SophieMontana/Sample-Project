@@ -1,0 +1,4 @@
+Hello, this is my code for a sample project 
+Variables are 
+A=B
+Here is more code 
